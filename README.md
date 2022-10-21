@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Borkar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **Core Java**
 
