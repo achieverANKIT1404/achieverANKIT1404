@@ -1,4 +1,4 @@
-<p><img src="https://github.com/achieverANKIT1404/achieverANKIT1404/blob/b363bc0547785631fdaa7124e62a79d2f400e963/Blue%20White%20Geometric%20Business%20Blog%20Banner%20(1).gif"</><p>
+
 
 <h1 align="center">नमस्कार GitHub🙏मंडळी I'm Ankit Borkar</h1>
 <h3 align="center">💫 About Me:</h3>
