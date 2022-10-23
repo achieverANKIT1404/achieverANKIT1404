@@ -5,9 +5,10 @@
 <h3 align="left">💫 About Me:</h3>
 <h4 align="left">🧑‍💻 A passionate Java developer from India</h4>
  🎓 B.C.A. Graduated in Computer Science 🎓
- 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+ 🧑‍💻 Working as a Intern at Asterisc Technocrat Pvt Ltd 🏢
 
  🌱 I’m currently learning **Core Java**
 
