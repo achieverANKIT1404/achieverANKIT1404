@@ -1,9 +1,13 @@
 
 
 <h1 align="center">नमस्कार GitHub🙏मंडळी I'm Ankit Borkar</h1>
+<img src="https://komarev.com/ghpvc/?username=achieverankit1404&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="achieverankit1404" />
 <h3 align="center">💫 About Me:</h3>
 <h3 align="center">A passionate Java developer from India</h3>
 <h3 align="center">🎓 B.C.A. Graduated in Computer Science 🎓</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit.S.Borkar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ankit.S.Borkar/)](https://www.linkedin.com/in/Ankit.S.Borkar/) [![Instagram Badge](https://img.shields.io/badge/-@ankit_borkar.1404-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ankit_borkar.1404/)](https://instagram.com/ankit_borkar.1404)  [![YouTube Badge](https://img.shields.io/badge/-@achiever ankit-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/achiever ankit/UC3nPrwX-1PimRT7qafhkvrA)](https://www.youtube.com/channel/UC3nPrwX-1PimRT7qafhkvrA)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Core Java**
