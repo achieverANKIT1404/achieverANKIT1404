@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- 🧑‍💻 Working as a Intern at Asterisc Technocrat Pvt Ltd 🏢
+ 🧑‍💻 As a Trainee at Asterisc Computer Institute 🏢
 
- 🌱 I’m currently learning **Core Java**
+ 🌱 I’m currently learning **Java Full-Stack**
 
  📝 I regularly write articles on [https://achieverankit.blogspot.com/](https://achieverankit.blogspot.com/)
 
